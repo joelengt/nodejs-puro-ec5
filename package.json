@@ -1,0 +1,15 @@
+{
+  "name": "myepicapp",
+  "version": "0.0.1",
+  "description": "practice about NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Joel Gonzales Tipismana <joelengt@gmail.com>",
+  "license": "MIT"
+}
